@@ -3,7 +3,7 @@ TRY ON VM ONLY. Ryuk .Net Ransomware overwrites all files on the computer (It me
 
 ![alt text](https://i.ibb.co/DDKCCQW/Screenshot-2.png)
 
-<p>This ransomware can changes file extension randomized or you can type your own extension. Write your own message and victim will see only that note. readme.txt wil be dropped on every folder which files has been encrypted</p>
+<p>This ransomware can change file extension randomized or you can type your own extension. Write your own message and victim will see only that note. readme.txt wil be dropped on every folder which files has been encrypted</p>
 
 ![alt text](https://i.ibb.co/XYKRrDg/enc.png)
 
